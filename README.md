@@ -27,6 +27,7 @@ $config = [
     'password' => 'your_pass',
     'charset'  => 'utf8mb4',
 ];
+```php
 
 2. Запустите файл:
 
